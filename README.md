@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack developer. I try to do my best in each project.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonatabonadio1" alt="jhonatabonadio1" /> </p>
 
-- 🔭 I'am currently working from home(https://github.com/Rocketseat)
+- 🔭 I'am currently working from home
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL**
 
