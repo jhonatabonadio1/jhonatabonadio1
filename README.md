@@ -1,27 +1,27 @@
-<h1 align="center">💀 JHONATA HENRIQUE LIMA BONADIO 💀</h1>
-<h3 align="center">Frontend Developer & Tech Lead • Arquiteto de Interfaces nas Sombras</h3>
+<h1 align="center">👋 Olá, eu sou o Jhonata!</h1>
+<h3 align="center">Frontend Developer & Tech Lead | UI/UX Design | React • React Native • Next.js • TypeScript</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Construindo+interfaces+na+escurid%C3%A3o...;9%2B+anos+invocando+componentes...;React+%E2%80%A2+React+Native+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;UI%2FUX+%E2%80%94+onde+o+pixel+encontra+o+caos;Tech+Lead+%E2%80%94+conduzindo+almas+em+code+review" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Criando+interfaces+bonitas+e+funcionais;9%2B+anos+construindo+produtos+digitais;React+%E2%80%A2+React+Native+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Design+%2B+Engenharia+%3D+boas+experi%C3%AAncias;Tech+Lead+que+adora+um+bom+code+review" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jhonatabonadio1&label=ALMAS+QUE+VISITARAM+ESTE+ABISMO&color=8B0000&style=flat-square" alt="jhonatabonadio1" />
+  <img src="https://komarev.com/ghpvc/?username=jhonatabonadio1&label=Visitas+ao+perfil&color=2E9EF7&style=flat-square" alt="jhonatabonadio1" />
 </p>
 
 ---
 
-### 🕯️ SOBRE ESTA ENTIDADE
+### 🙋‍♂️ Sobre mim
 
-> *"Uno habilidades de design com engenharia frontend de alto nível — garantindo que nada aqui seja acidental."*
+Sou Desenvolvedor Frontend e Especialista em UI/UX com mais de **9 anos de experiência** construindo interfaces modernas, performáticas e escaláveis para web e mobile. Trabalho com **React, React Native, Next.js e TypeScript**, com boa bagagem em arquiteturas componentizadas, design systems e experiência do usuário.
 
-Desenvolvedor Frontend e Especialista em UI/UX, forjado há mais de **9 anos** nas trincheiras de interfaces web e mobile. Domino a arte sombria de **React, React Native, Next.js e TypeScript**, e comando arquiteturas componentizadas com a mesma frieza com que aprovo — ou rejeito — um Pull Request. Design Systems nascem e morrem sob minhas mãos. Como **Tech Lead**, conduzo decisões técnicas, code reviews e a mentoria (involuntária, às vezes) de quem cruza meu caminho.
+Gosto de unir design (prototipação, pesquisa de UX, sistemas de design) com engenharia frontend de alto nível, sempre buscando produtos consistentes, acessíveis e alinhados ao negócio. Também atuo como **Tech Lead**, cuidando de decisões técnicas, code review e mentoria do time.
 
-📍 Brasília/DF, Brasil — onde os prazos vão para morrer.
+📍 Brasília/DF, Brasil
 
 ---
 
-### ⚰️ RELÍQUIAS E FERAS DOMADAS
+### 🛠️ Tecnologias que uso no dia a dia
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/react/react-original.svg" alt="react" width="40" height="40"/>
@@ -43,45 +43,44 @@ Desenvolvedor Frontend e Especialista em UI/UX, forjado há mais de **9 anos** n
 
 ---
 
-### 🗿 CRÔNICAS DE BATALHA (Experiência)
+### 💼 Experiência profissional
 
-```txt
-> whoami --historico
+**Frontend Developer & Tech Lead** — Baratão Combustíveis · *2021 – Atual · Brasília*
+- Liderança técnica do time frontend, cuidando de arquitetura, code reviews e mentoria.
+- Design e prototipação no Figma antes de qualquer linha de código.
+- Criação e manutenção de Design System com componentes reutilizáveis e tokens.
+- Pesquisa de UX com usuários finais para mapear dores e priorizar melhorias.
+- App mobile multiplataforma com React Native, com foco em performance para usuários de postos de combustível.
+- Painel administrativo em Blazor WebAssembly para gestão de preços e monitoramento em tempo real.
+- Integração com MQTT para dados em tempo real e APIs REST/WebSockets para sincronização entre app, web e automação.
+- Boas práticas de performance: componentização, code splitting, lazy loading e Web Vitals.
 
-[2021 — presente]  Frontend Developer & Tech Lead @ Baratão Combustíveis
-                    ├─ Comando o time frontend como quem comanda uma legião.
-                    ├─ Design System construído do zero — tokens, componentes, ordem no caos.
-                    ├─ App mobile (React Native) para postos de combustível, sob pressão real.
-                    ├─ Painel administrativo em Blazor WebAssembly — complexidade domada.
-                    ├─ Dados em tempo real via MQTT — sussurros entre sistemas.
-                    └─ Web Vitals, lazy loading, code splitting — performance sem piedade.
+**Engenheiro de Software Frontend** — Initech Informática · *2019 – Atual · Brasília*
+- Arquitetura e desenvolvimento de soluções web ricas e escaláveis.
+- Definição de stack e padrões frontend para clientes corporativos.
+- Interface direta com stakeholders para requisitos e prototipação.
 
-[2019 — presente]  Engenheiro de Software Frontend @ Initech Informática
-                    ├─ Arquitetura de soluções web ricas e escaláveis.
-                    └─ Definição de padrões frontend para clientes corporativos.
-
-[2015 — 2019]      Full Stack Developer (foco Frontend) @ Polisys Informática
-                    ├─ Sistemas para órgãos governamentais.
-                    ├─ Migração de interfaces monolíticas para componentes.
-                    └─ jQuery e JS puro → padrões modernos. Uma evolução.
-```
-
----
-
-### 🩸 DIFERENCIAIS QUE ASSOMBRAM A CONCORRÊNCIA
-
-- 🎭 Especialista em UI/UX — da pesquisa com usuários ao pixel-perfect no código
-- 🖤 Domínio de Figma — prototipação, componentes, handoff sem sobressaltos
-- 🏗️ Criação de Design Systems do zero — tokens, documentação, governança
-- 📱 Apps mobile de alta disponibilidade (React Native — iOS e Android)
-- ⚙️ WebAssembly em produção real, via Blazor
-- 🧠 Visão de produto — técnica e UX caminhando juntas
-- 🔗 Background fullstack — comunicação fluida com backend e DevOps
-- ⚡ Missão crítica — resiliência e tempo real não são apenas palavras
+**Full Stack Developer (foco Frontend)** — Polisys Informática · *2015 – 2019 · Brasília*
+- Sistemas web para órgãos governamentais.
+- Evolução de interfaces monolíticas para componentes reutilizáveis.
+- Migração progressiva de jQuery/JS puro para padrões modernos.
 
 ---
 
-### 📜 PERGAMINHOS E SELOS (Certificações)
+### ⭐ Diferenciais
+
+- 🎨 Especialista em UI/UX, da pesquisa com usuários ao pixel-perfect no código
+- 🧩 Domínio de Figma para prototipação, componentes e handoff
+- 🏗️ Criação de Design Systems do zero (tokens, componentes, documentação)
+- 📱 Experiência com apps mobile de alta disponibilidade em React Native (iOS e Android)
+- ⚙️ Uso de WebAssembly em projetos reais com Blazor
+- 🎯 Visão de produto, unindo técnica com sensibilidade de UX e negócio
+- 🔗 Background fullstack que facilita comunicação com backend e DevOps
+- 🚦 Experiência com sistemas de missão crítica e requisitos de tempo real
+
+---
+
+### 📜 Certificações
 
 - Desenvolvimento Full Stack — ReactJS, Next.js, React Native, Node.js
 - Arquitetura de Software Moderna — Clean Architecture, DDD, SOLID
@@ -91,7 +90,7 @@ Desenvolvedor Frontend e Especialista em UI/UX, forjado há mais de **9 anos** n
 
 ---
 
-### 🎓 FORMAÇÃO & IDIOMAS
+### 🎓 Formação & Idiomas
 
 **Formação Acadêmica**
 Extensão Universitária em Arquitetura Full Cycle — FCTECH
@@ -103,7 +102,7 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas — CEUB, Brasília *(em an
 
 ---
 
-### 📡 INVOQUE-ME
+### 📬 Vamos conversar?
 
 <p align="left">
 <a href="https://instagram.com/jhonbonadio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jhonatabonadio" height="24" width="24" /></a>
@@ -116,11 +115,11 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas — CEUB, Brasília *(em an
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonatabonadio1&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=8B0000&icon_color=8B0000&text_color=c9c9c9" alt="jhonatabonadio1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhonatabonadio1&show_icons=true&theme=tokyonight&hide_border=true" alt="jhonatabonadio1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonatabonadio1&theme=dark&hide_border=true&background=0d0d0d&ring=8B0000&fire=8B0000&currStreakLabel=c9c9c9" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonatabonadio1&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
-<h4 align="center">🕷️ "Cada componente que crio é um pacto silencioso entre design e código." 🕷️</h4>
+<h4 align="center">🚀 Bora construir algo bacana juntos!</h4>
