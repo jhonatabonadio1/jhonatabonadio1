@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Jhonata!</h1>
-<h3 align="center">Frontend Developer & Tech Lead | UI/UX Design | React • React Native • Next.js • TypeScript</h3>
+<h3 align="center">Full Stack Developer & Tech Lead | UI/UX Design | React • React Native • Next.js • TypeScript</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Criando+interfaces+bonitas+e+funcionais;9%2B+anos+construindo+produtos+digitais;React+%E2%80%A2+React+Native+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Design+%2B+Engenharia+%3D+boas+experi%C3%AAncias;Tech+Lead+que+adora+um+bom+code+review" alt="Typing SVG" />
@@ -43,64 +43,6 @@ Gosto de unir design (prototipação, pesquisa de UX, sistemas de design) com en
 
 ---
 
-### 💼 Experiência profissional
-
-**Frontend Developer & Tech Lead** — Baratão Combustíveis · *2021 – Atual · Brasília*
-- Liderança técnica do time frontend, cuidando de arquitetura, code reviews e mentoria.
-- Design e prototipação no Figma antes de qualquer linha de código.
-- Criação e manutenção de Design System com componentes reutilizáveis e tokens.
-- Pesquisa de UX com usuários finais para mapear dores e priorizar melhorias.
-- App mobile multiplataforma com React Native, com foco em performance para usuários de postos de combustível.
-- Painel administrativo em Blazor WebAssembly para gestão de preços e monitoramento em tempo real.
-- Integração com MQTT para dados em tempo real e APIs REST/WebSockets para sincronização entre app, web e automação.
-- Boas práticas de performance: componentização, code splitting, lazy loading e Web Vitals.
-
-**Engenheiro de Software Frontend** — Initech Informática · *2019 – Atual · Brasília*
-- Arquitetura e desenvolvimento de soluções web ricas e escaláveis.
-- Definição de stack e padrões frontend para clientes corporativos.
-- Interface direta com stakeholders para requisitos e prototipação.
-
-**Full Stack Developer (foco Frontend)** — Polisys Informática · *2015 – 2019 · Brasília*
-- Sistemas web para órgãos governamentais.
-- Evolução de interfaces monolíticas para componentes reutilizáveis.
-- Migração progressiva de jQuery/JS puro para padrões modernos.
-
----
-
-### ⭐ Diferenciais
-
-- 🎨 Especialista em UI/UX, da pesquisa com usuários ao pixel-perfect no código
-- 🧩 Domínio de Figma para prototipação, componentes e handoff
-- 🏗️ Criação de Design Systems do zero (tokens, componentes, documentação)
-- 📱 Experiência com apps mobile de alta disponibilidade em React Native (iOS e Android)
-- ⚙️ Uso de WebAssembly em projetos reais com Blazor
-- 🎯 Visão de produto, unindo técnica com sensibilidade de UX e negócio
-- 🔗 Background fullstack que facilita comunicação com backend e DevOps
-- 🚦 Experiência com sistemas de missão crítica e requisitos de tempo real
-
----
-
-### 📜 Certificações
-
-- Desenvolvimento Full Stack — ReactJS, Next.js, React Native, Node.js
-- Arquitetura de Software Moderna — Clean Architecture, DDD, SOLID
-- DevOps e SRE — GitHub Actions, Docker, Atlassian
-- Cloud e Serverless Computing — AWS, Azure
-- Metodologias Ágeis — Scrum, Kanban
-
----
-
-### 🎓 Formação & Idiomas
-
-**Formação Acadêmica**
-Extensão Universitária em Arquitetura Full Cycle — FCTECH
-Tecnólogo em Análise e Desenvolvimento de Sistemas — CEUB, Brasília *(em andamento)*
-
-**Idiomas**
-🇺🇸 Inglês — Leitura e Escrita
-🇪🇸 Espanhol — Leitura e Escrita
-
----
 
 ### 📬 Vamos conversar?
 
@@ -121,5 +63,3 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas — CEUB, Brasília *(em an
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonatabonadio1&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
-
-<h4 align="center">🚀 Bora construir algo bacana juntos!</h4>
