@@ -1,65 +1,44 @@
-<h1 align="center">👋 Olá, eu sou o Jhonata!</h1>
-<h3 align="center">Full Stack Developer & Tech Lead | UI/UX Design | React • React Native • Next.js • TypeScript</h3>
+## Oi, eu sou o Jhonata
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Criando+interfaces+bonitas+e+funcionais;9%2B+anos+construindo+produtos+digitais;React+%E2%80%A2+React+Native+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Design+%2B+Engenharia+%3D+boas+experi%C3%AAncias;Tech+Lead+que+adora+um+bom+code+review" alt="Typing SVG" />
-</p>
+Desenvolvedor de software em Brasília, hoje **Tech Lead de um time de 4 pessoas** na Baratão Combustíveis.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jhonatabonadio1&label=Visitas+ao+perfil&color=2E9EF7&style=flat-square" alt="jhonatabonadio1" />
-</p>
+Fui o primeiro desenvolvedor mobile da empresa e construí sozinho o aplicativo até o primeiro milhão de usuários. Depois assumi também o back-end e a automação dos postos. Gosto de sistemas que não podem falhar: pagamentos, antifraude, integração com hardware e operação em produção.
 
----
+### Em números
 
-### 🙋‍♂️ Sobre mim
+| 1 mi | 10 mi+ | 70 mil+ | 500+ |
+|:---:|:---:|:---:|:---:|
+| usuários com o app que construí sozinho | downloads do aplicativo | transações por dia | postos com automação de bombas |
 
-Sou Desenvolvedor Frontend e Especialista em UI/UX com mais de **9 anos de experiência** construindo interfaces modernas, performáticas e escaláveis para web e mobile. Trabalho com **React, React Native, Next.js e TypeScript**, com boa bagagem em arquiteturas componentizadas, design systems e experiência do usuário.
+### Alguns problemas que resolvi
 
-Gosto de unir design (prototipação, pesquisa de UX, sistemas de design) com engenharia frontend de alto nível, sempre buscando produtos consistentes, acessíveis e alinhados ao negócio. Também atuo como **Tech Lead**, cuidando de decisões técnicas, code review e mentoria do time.
+- **Do zero ao primeiro milhão.** App de abastecimento, pagamento e benefícios em React Native, que chegou ao top 30 em Compras na App Store e ao top 10 em Auto e veículos no Google Play.
+- **Chargeback abaixo de 1%.** Ajudei a montar a camada antifraude: 3D Secure, verificação de identidade em tempo real, regras de compra e pontuação de crédito por usuário.
+- **Vendas que sumiam no Xiaomi.** O sistema encerrava o app enquanto o cliente autorizava o pagamento no banco. Um foreground service manteve o processo vivo e recuperou essas vendas.
+- **500 postos com internet instável.** Agente .NET em Windows Service, MQTT com QoS, retry com backoff e comandos idempotentes que nunca autorizam um abastecimento duas vezes. Atualizações chegam a todos os postos e voltam sozinhas à versão anterior se algo falhar.
+- **Bombas que travavam sem explicação.** Fui a campo com a fabricante até achar a causa: comandos simultâneos em equipamentos antigos. Um intervalo de 200 ms resolveu.
+- **Entrega rápida e segura.** Servidor próprio de CodePush, versão web com React Native Web e CI/CD com testes E2E em Maestro bloqueando releases com regressão.
 
-📍 Brasília/DF, Brasil
+### Stack
 
----
+| | |
+|---|---|
+| **Linguagens** | TypeScript · JavaScript · C# · Ruby · SQL |
+| **Aplicações** | React · Next.js · React Native · React Native Web · módulos nativos Android e iOS · Blazor |
+| **Serviços** | .NET / ASP.NET Core · Worker Service · Node.js · Ruby on Rails · APIs REST · MQTT |
+| **Dados e nuvem** | PostgreSQL · SQL Server · MongoDB · Google Cloud · Heroku · Docker · Linux |
+| **Qualidade e operação** | GitHub Actions · Maestro · xUnit · Sentry · Firebase · Grafana · Prometheus · Loki |
 
-### 🛠️ Tecnologias que uso no dia a dia
+### Como eu trabalho
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
-</p>
+- Entendo o problema antes de escolher a tecnologia, e decido pensando em custo, prazo e risco.
+- Código revisado por pull request, testes ligados ao deploy e monitoramento em produção.
+- Traduzo o técnico para quem não é técnico: Produto, comercial e parceiros.
 
----
+### Sobre os repositórios
 
+A maior parte do que construí está em repositórios privados da empresa. Aqui ficam estudos e projetos pessoais.
 
-### 📬 Vamos conversar?
+### Contato
 
-<p align="left">
-<a href="https://instagram.com/jhonbonadio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jhonatabonadio" height="24" width="24" /></a>
-&nbsp;
-<a href="https://www.facebook.com/jhonata.bonadio.564" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jhonatabonadio" height="24" width="24" /></a>
-&nbsp;
-📫 <b>jhonbonadio@gmail.com</b>
-&nbsp; | &nbsp;
-📱 (61) 99948-1240
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonatabonadio1&show_icons=true&theme=tokyonight&hide_border=true" alt="jhonatabonadio1" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonatabonadio1&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
+[LinkedIn](https://linkedin.com/in/jhonatabonadio1) · [jhonbonadio@gmail.com](mailto:jhonbonadio@gmail.com)
