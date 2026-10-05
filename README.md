@@ -173,19 +173,3 @@ Meu forte são **sistemas que não podem falhar**: pagamentos, antifraude, integ
 A maior parte do que construí está em repositórios privados da empresa. Aqui ficam estudos, experimentos e projetos pessoais.
 
 ---
-
-### 📈 Atividade
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonatabonadio1&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6" alt="Estatísticas do GitHub" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=jhonatabonadio1&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="Sequência de contribuições" height="165" />
-</p>
-
----
-
-### 📬 Vamos conversar?
-
-<p align="center">
-  <a href="https://linkedin.com/in/jhonatabonadio1"><img src="https://img.shields.io/badge/LinkedIn-jhonatabonadio1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:jhonbonadio@gmail.com"><img src="https://img.shields.io/badge/Email-jhonbonadio%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
