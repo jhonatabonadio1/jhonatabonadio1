@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor de Software & Tech Lead<br>React Native • React • Next.js • TypeScript • .NET • Node.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Tech+Lead+de+um+time+de+4+pessoas;App+com+10+milh%C3%B5es%2B+de+downloads;70+mil%2B+transa%C3%A7%C3%B5es+por+dia;500%2B+postos+com+automa%C3%A7%C3%A3o+de+bombas;Sistemas+que+n%C3%A3o+podem+falhar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Tech+Lead;App+com+10+milh%C3%B5es%2B+de+downloads;500%2B+postos+com+automa%C3%A7%C3%A3o+de+bombas;Sistemas+que+n%C3%A3o+podem+falhar" alt="Typing SVG" />
 </p>
 
 <p align="center">
